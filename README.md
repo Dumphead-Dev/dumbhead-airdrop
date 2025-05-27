@@ -6,6 +6,8 @@ Welcome to the only airdrop contract for $DUMBHEAD.
 No team allocation, no rug, no second chances.  
 Mint: FoHvnZNgs9T2y7td6SZSWiwQZYDg2a4RZh1ev2ix2WM8
 
+[Join our Telegram bot](https://t.me/DumbheadDropBot?start=566002385) | [Community Group](https://t.me/Dump_head) | [Follow on X](https://x.com/DumpHead_lol)
+
 ## 🚀 Airdrop Logic
 
 - All tokens minted up front. Mint authority burned. Freeze authority disabled.
